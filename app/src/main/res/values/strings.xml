@@ -1,0 +1,299 @@
+<resources>
+    <string name="app_name">BookMyHall</string>
+    <string-array name="cities">
+        <item>Ahmedabad</item>
+        <item>Bavla</item>
+        <item>Daskroi</item>
+        <item>Detroj-Rampura</item>
+        <item>Dhandhuka</item>
+        <item>Dholera</item>
+        <item>Dholka</item>
+        <item>Mandal</item>
+        <item>Sanand</item>
+        <item>Viramgam</item>
+
+        <item>Amreli</item>
+        <item>Babra</item>
+        <item>Bagasara</item>
+        <item>Dhari</item>
+        <item>Jafrabad</item>
+        <item>Khambha</item>
+        <item>Kunkavav vadia</item>
+        <item>Lathi</item>
+        <item>Lilia</item>
+        <item>Rajula</item>
+        <item>Savarkundla</item>
+
+        <item>Anand</item>
+        <item>Anklav</item>
+        <item>Borsad</item>
+        <item>Khambhat</item>
+        <item>Petlad</item>
+        <item>Sojitra</item>
+        <item>Tarapur</item>
+        <item>Umreth</item>
+
+        <item>Bayad</item>
+        <item>Bhiloda</item>
+        <item>Dhansura</item>
+        <item>Malpur</item>
+        <item>Meghraj</item>
+        <item>Modasa</item>
+
+        <item>Amirgadh</item>
+        <item>Bhabhar</item>
+        <item>Danta</item>
+        <item>Dantiwada</item>
+        <item>Deesa</item>
+        <item>Deodar</item>
+        <item>Dhanera</item>
+        <item>Kankrej</item>
+        <item>Lakhani</item>
+        <item>Palanpur</item>
+        <item>Suigam</item>
+        <item>Tharad</item>
+        <item>Vadgam</item>
+        <item>Vav</item>
+
+        <item>Bharuch</item>
+        <item>Amod</item>
+        <item>Ankleshwar</item>
+        <item>Hansot</item>
+        <item>Jambusar</item>
+        <item>Jhagadia</item>
+        <item>Netrang</item>
+        <item>Vagra</item>
+        <item>Valia</item>
+
+        <item>Bhavnagar</item>
+        <item>Gariadhar</item>
+        <item>Ghogha</item>
+        <item>Jesar</item>
+        <item>Mahuva</item>
+        <item>Palitana</item>
+        <item>Sihor</item>
+        <item>Talaja</item>
+        <item>Umrala</item>
+        <item>Vallabhipur</item>
+
+        <item>Botad</item>
+        <item>Barwala</item>
+        <item>Gadhada</item>
+        <item>Ranpur</item>
+
+        <item>Chhota Udepur</item>
+        <item>Bodeli</item>
+        <item>Jetpur pavi</item>
+        <item>Kavant</item>
+        <item>Nasvadi</item>
+        <item>Sankheda</item>
+
+        <item>Dahod</item>
+        <item>Devgadh baria</item>
+        <item>Dhanpur</item>
+        <item>Fatepura</item>
+        <item>Garbada</item>
+        <item>Limkheda</item>
+        <item>Sanjeli</item>
+        <item>Jhalod</item>
+
+        <item>Ahwa</item>
+        <item>Subir</item>
+        <item>Waghai</item>
+
+        <item>Bhanvad</item>
+        <item>Kalyanpur</item>
+        <item>Khambhalia</item>
+        <item>Okhamandal</item>
+
+        <item>Gandhinagar</item>
+        <item>Dehgam</item>
+        <item>Kalol</item>
+        <item>Mansa</item>
+
+        <item>Gir-Gadhada</item>
+        <item>Kodinar</item>
+        <item>Sutrapada</item>
+        <item>Talala</item>
+        <item>Una</item>
+        <item>Patan-Veraval</item>
+
+        <item>Jamnagar</item>
+        <item>Dhrol</item>
+        <item>Jamjodhpur</item>
+        <item>Jodiya</item>
+        <item>Kalavad</item>
+        <item>Lalpur</item>
+
+        <item>Junagadh City</item>
+        <item>Bhesana</item>
+        <item>Junagadh Rural</item>
+        <item>Keshod</item>
+        <item>Malia</item>
+        <item>Manavadar</item>
+        <item>Mangrol</item>
+        <item>Mendarda</item>
+        <item>Vanthali</item>
+        <item>Visavadar</item>
+
+        <item>Abdasa</item>
+        <item>Anjar</item>
+        <item>Bhachau</item>
+        <item>Bhuj</item>
+        <item>Gandhidham</item>
+        <item>Lakhpat</item>
+        <item>Mandvi</item>
+        <item>Mundra</item>
+        <item>Nakhatrana</item>
+        <item>Rapar</item>
+
+        <item>Kheda</item>
+        <item>Galteshwar</item>
+        <item>Kapadvanj</item>
+        <item>Kathlal</item>
+        <item>Mahudha</item>
+        <item>Matar</item>
+        <item>Mehmedabad</item>
+        <item>Nadiad</item>
+        <item>Thasra</item>
+        <item>Vaso</item>
+
+        <item>Balasinor</item>
+        <item>Kadana</item>
+        <item>Khanpur</item>
+        <item>Lunawada</item>
+        <item>Santrampur</item>
+        <item>Virpur</item>
+
+        <item>Mehsana</item>
+        <item>Becharaji</item>
+        <item>Jotana</item>
+        <item>Kadi</item>
+        <item>Kheralu</item>
+        <item>Satlasana</item>
+        <item>Unjha</item>
+        <item>Vadnagar</item>
+        <item>Vijapur</item>
+        <item>Visnagar</item>
+        <item>Gojariya</item>
+
+        <item>Halvad</item>
+        <item>Maliya</item>
+        <item>Morbi</item>
+        <item>Tankara</item>
+        <item>Wankaner</item>
+
+        <item>Dediapada</item>
+        <item>Garudeshwar</item>
+        <item>Nandod</item>
+        <item>Sagbara</item>
+        <item>Tilakwada</item>
+
+        <item>Navsari</item>
+        <item>Vansda</item>
+        <item>Chikhli</item>
+        <item>Gandevi</item>
+        <item>Jalalpore</item>
+        <item>Khergam</item>
+
+        <item>Ghoghamba</item>
+        <item>Godhra</item>
+        <item>Halol</item>
+        <item>Jambughoda</item>
+        <item>Kalol</item>
+        <item>Morwa Hadaf</item>
+        <item>Shehera</item>
+
+        <item>Patan</item>
+        <item>Chanasma</item>
+        <item>Harij</item>
+        <item>Radhanpur</item>
+        <item>Sami</item>
+        <item>Sankheswar</item>
+        <item>Santalpur</item>
+        <item>Sarasvati</item>
+        <item>Sidhpur</item>
+
+        <item>Porbandar</item>
+        <item>Kutiyana</item>
+        <item>Ranavav</item>
+
+        <item>Rajkot</item>
+        <item>Dhoraji</item>
+        <item>Gondal</item>
+        <item>Jamkandorna</item>
+        <item>Jasdan</item>
+        <item>Jetpur</item>
+        <item>Kotada Sangani</item>
+        <item>Lodhika</item>
+        <item>Paddhari</item>
+        <item>Upleta</item>
+        <item>Vinchchiya</item>
+
+        <item>Himatnagar</item>
+        <item>Idar</item>
+        <item>Khedbrahma</item>
+        <item>Poshina</item>
+        <item>Prantij</item>
+        <item>Talod</item>
+        <item>Vadali</item>
+        <item>Vijaynagar</item>
+
+        <item>Surat</item>
+        <item>Bardoli</item>
+        <item>Choryasi</item>
+        <item>Kamrej</item>
+        <item>Mahuva</item>
+        <item>Mandvi</item>
+        <item>Mangrol</item>
+        <item>Olpad</item>
+        <item>Palsana</item>
+        <item>Umarpada</item>
+
+        <item>Chotila</item>
+        <item>Chuda</item>
+        <item>Dasada</item>
+        <item>Dhrangadhra</item>
+        <item>Lakhtar</item>
+        <item>Limbdi</item>
+        <item>Muli</item>
+        <item>Sayla</item>
+        <item>Thangadh</item>
+        <item>Wadhwan</item>
+
+        <item>Nizar</item>
+        <item>Songadh</item>
+        <item>Uchchhal</item>
+        <item>Valod</item>
+        <item>Vyara</item>
+        <item>Kukurmunda</item>
+
+        <item>Vadodara</item>
+        <item>Dabhoi</item>
+        <item>Desar</item>
+        <item>Karjan</item>
+        <item>Padra</item>
+        <item>Savli</item>
+        <item>Sinor</item>
+        <item>Vaghodia</item>
+
+        <item>Valsad</item>
+        <item>Dharampur</item>
+        <item>Kaprada</item>
+        <item>Pardi</item>
+        <item>Umbergaon</item>
+        <item>Vapi</item>
+
+
+    </string-array>
+    <string name="title_activity_home">home</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
